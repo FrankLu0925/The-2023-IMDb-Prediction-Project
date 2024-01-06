@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to construct predictive models for IMDb scores, providing insights into the potential success of new movies. Leveraging IMDb data, we develop robust models to predict scores, benefiting both moviegoers and the film industry.
+This project aims to construct predictive models for IMDb scores, providing insights into the potential success of new movies. Leveraging IMDb data, robust models are developed to predict scores, benefiting both moviegoers and the film industry.
 
 ## Objectives
 
